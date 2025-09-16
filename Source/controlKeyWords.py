@@ -1,5 +1,5 @@
 #break, continue and pass
-moviesList = ['JungleBook', 'Interstella', "Titanic", "Baby"]
+moviesList = ['JungleBook', 'Inter stella', "Titanic", "Baby"]
 for movies in moviesList:
     print(movies)
     if movies == 'Titanic':
@@ -7,7 +7,6 @@ for movies in moviesList:
         break
 
 #continue
-
 Dishes = ["Pasta", "Burger","Salad", "spicy Curry", "Chicken & Chicken", "Spicy Noodles"]
 for dish in Dishes:
     if "spicy" in dish:
